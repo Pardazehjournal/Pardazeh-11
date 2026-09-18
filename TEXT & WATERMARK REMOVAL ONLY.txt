@@ -1,0 +1,111 @@
+
+Use the provided image as the absolute and immutable reference source.
+
+AUTHORIZATION:
+This instruction is intended only for images that I own or have permission to edit.
+
+PRIMARY OBJECTIVE:
+Remove ONLY the specified text, watermark, logo, or unwanted graphic element from the original image and naturally reconstruct the affected area using the surrounding visual information.
+
+SOURCE IMAGE PRESERVATION:
+The original image must remain the sole source for the entire editing process.
+
+DO NOT:
+- regenerate the image
+- recreate the image
+- reinterpret the image
+- redraw the image
+- replace the original image
+- alter the composition
+- change the perspective
+- change the framing
+- move or resize any original object
+- enhance or stylize unrelated areas
+- invent new visual content
+
+Remove ONLY the specified unwanted text or watermark.
+
+ALL OTHER CONTENT MUST REMAIN EXACTLY AS IN THE ORIGINAL IMAGE.
+
+OBJECT PRESERVATION:
+Every original object, person, structure and visual element outside the removal area must remain unchanged.
+
+Preserve:
+- shapes
+- proportions
+- positions
+- textures
+- colors
+- lighting
+- shadows
+- highlights
+- reflections
+- perspective
+- depth
+- background details
+
+NATURAL AREA RECONSTRUCTION:
+After removing the specified text or watermark, reconstruct ONLY the resulting empty area.
+
+Use the immediately surrounding pixels and visual structures of the ORIGINAL IMAGE as the sole reference.
+
+The repaired area must naturally continue the surrounding:
+- texture
+- pattern
+- surface
+- color
+- lighting
+- shadows
+- perspective
+- grain
+- depth
+- architectural or environmental details
+
+If the watermark crosses a textured, patterned, architectural or complex area, reconstruct that area by accurately continuing the existing surrounding visual structure.
+
+Do NOT invent unrelated objects or details.
+
+EDGE AND TRANSITION QUALITY:
+The boundary of the repaired area must be completely natural.
+
+There must be:
+- no visible watermark remnants
+- no ghosting
+- no halos
+- no color contamination
+- no artificial blur
+- no repeated patterns
+- no cloning artifacts
+- no obvious retouching marks
+- no unnatural texture transitions
+
+TEXT REMOVAL:
+Remove all pixels belonging to the specified text or watermark, including subtle remnants, shadows, outlines or semi-transparent portions associated with that element.
+
+Do not remove legitimate image details that merely overlap or are adjacent to the unwanted element.
+
+STRICTLY FORBIDDEN:
+- Do not modify faces.
+- Do not modify people.
+- Do not modify objects.
+- Do not modify backgrounds outside the removal area.
+- Do not change colors globally.
+- Do not change exposure or contrast.
+- Do not sharpen the image.
+- Do not apply noise reduction globally.
+- Do not apply filters.
+- Do not apply artistic effects.
+- Do not change image quality outside the requested removal area.
+- Do not crop the image.
+
+OUTPUT:
+Return the ORIGINAL IMAGE with ONLY the specified text/watermark removed and its exact affected area naturally reconstructed from the surrounding original image.
+
+The final result must appear as if the unwanted element had never existed.
+
+CORE RULE:
+
+REMOVE ONLY → RECONSTRUCT ONLY THE AFFECTED AREA → PRESERVE EVERYTHING ELSE.
+
+If the surrounding image does not contain sufficient information to reliably reconstruct an affected area, do not invent new content. Preserve the original visual characteristics as faithfully as possible.
+

@@ -1,0 +1,72 @@
+
+Use the provided image as the absolute and immutable source image.
+
+TASK:
+Remove ONLY the background from the provided image and make the background fully transparent.
+
+SUBJECT PRESERVATION:
+Preserve every part of the original subject exactly as it appears in the source image.
+Do not redraw, regenerate, reconstruct, reinterpret, enhance, retouch, stylize, restore, sharpen, smooth, recolor, relight, resize, reshape, deform, or replace any part of the original subject.
+
+IMAGE INTEGRITY:
+The original subject must remain pixel-faithful to the source image.
+Preserve:
+- all objects and sub-objects
+- fine details
+- textures
+- colors
+- shadows that belong to the subject
+- highlights
+- reflections
+- transparency
+- holes and internal negative spaces
+- thin structures
+- wires, cables, strings and small components
+- hair, fur and individual fine strands
+- semi-transparent and translucent areas
+- natural anti-aliased edges
+
+EDGE EXTRACTION:
+Create a precise subject mask based ONLY on the actual pixels and visible boundaries of the source image.
+
+Edges must be:
+- natural
+- clean
+- accurate
+- non-destructive
+- free of halos
+- free of background color contamination
+- free of jagged or artificially sharpened borders
+
+For hair, fur, fabric fibers, transparent materials and other fine details, preserve the natural transition and partial transparency of edge pixels instead of creating a hard artificial cutout.
+
+BACKGROUND:
+Remove the entire original background, including disconnected background regions and background visible through legitimate internal openings of the subject.
+
+Do not remove any area that belongs to the actual subject.
+
+ABSOLUTELY FORBIDDEN:
+- Do not regenerate the image.
+- Do not recreate the subject.
+- Do not replace the subject with an AI-generated equivalent.
+- Do not modify facial features or identity.
+- Do not change proportions or geometry.
+- Do not add or remove objects.
+- Do not invent missing details.
+- Do not apply artistic effects.
+- Do not apply color correction.
+- Do not change exposure, contrast, saturation or white balance.
+- Do not sharpen or blur the subject.
+- Do not denoise or beautify the subject.
+- Do not alter shadows, highlights, textures or surface details belonging to the subject.
+- Do not crop the subject.
+- Do not change the original composition.
+
+OUTPUT:
+Return the exact original subject isolated from its original background with a transparent background.
+
+The only intended modification is:
+ORIGINAL BACKGROUND → TRANSPARENT
+
+Everything else must remain unchanged.
+
