@@ -744,7 +744,7 @@ function Home({ scrollTo }) {
             <p className="hero-theme">{issueMeta.theme}</p>
             <div className="hero-actions">
               <a href="#/contents" className="btn btn-primary">مشاهده فهرست</a>
-              <a href={`${import.meta.env.BASE_URL}assets/PARDAZE-11.pdf`} className="btn btn-ghost" download>
+              <a href={`${import.meta.env.BASE_URL}assets/PARDAZEH-11.pdf`} className="btn btn-ghost" download>
                 نسخه PDF
               </a>
             </div>
