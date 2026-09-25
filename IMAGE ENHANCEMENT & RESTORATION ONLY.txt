@@ -1,0 +1,136 @@
+
+Use the provided image as the absolute, immutable reference source.
+
+PRIMARY OBJECTIVE:
+Improve the technical quality, clarity and overall condition of the ORIGINAL IMAGE while preserving the original image itself.
+
+All enhancement and restoration must be performed directly from the information contained in the original reference image.
+
+ABSOLUTE SOURCE PRESERVATION:
+The original image must remain the sole visual source.
+
+Do NOT:
+- regenerate the image
+- recreate the image
+- reinterpret the image
+- replace the image
+- redraw any object
+- invent missing details
+- hallucinate textures or features
+- substitute AI-generated elements for original elements
+
+Do not change the identity, appearance, geometry, proportions, composition, perspective, pose or structure of any original subject.
+
+PRESERVE EVERY ORIGINAL ELEMENT:
+Keep all original objects, subjects and details exactly where they are.
+
+Preserve:
+- facial features and identity
+- body and object proportions
+- clothing and accessories
+- textures
+- materials
+- fine details
+- shadows
+- highlights
+- reflections
+- background elements
+- original composition
+- original perspective
+- original framing
+
+ENHANCEMENT:
+Increase image quality only where the original image contains sufficient information to support the enhancement.
+
+Improve, when appropriate:
+- resolution
+- sharpness
+- local clarity
+- fine-detail definition
+- edge clarity
+- overall image cleanliness
+- compression artifacts
+- noise
+- mild blur
+- faded areas
+
+Do not create artificial detail where the source image does not contain enough information.
+
+RESTORATION OF DAMAGE:
+Identify genuine defects such as:
+- stains
+- scratches
+- dust
+- discoloration
+- faded areas
+- small damaged regions
+- compression artifacts
+
+Restore damaged or faded areas using ONLY the surrounding visual information from the original image.
+
+Any repaired area must naturally match its immediate surroundings in:
+- texture
+- color
+- lighting
+- grain
+- material
+- sharpness
+- perspective
+- tonal variation
+
+The restoration must look like a natural continuation of the original image, not an AI-generated replacement.
+
+COLOR AND TONE:
+Preserve the original color character and lighting.
+
+Do not apply:
+- cinematic color grading
+- artificial color enhancement
+- excessive saturation
+- dramatic contrast
+- HDR effects
+- artificial lighting
+- stylization
+
+Only correct objectively damaged or faded color when the surrounding original pixels provide reliable information for restoration.
+
+FACES AND IMPORTANT FEATURES:
+Do not modify, beautify, reconstruct or reinterpret faces or other identifiable features.
+
+Do not alter:
+- facial structure
+- eyes
+- nose
+- mouth
+- skin texture
+- hair
+- expression
+- age
+- body shape
+- identity
+
+Any enhancement to these areas must remain strictly faithful to the visible information in the source image.
+
+EDGE AND DETAIL INTEGRITY:
+Preserve natural edges and fine structures.
+
+Do not introduce:
+- artificial outlines
+- oversharpening
+- halos
+- ringing
+- plastic-looking textures
+- excessive smoothing
+- unnatural micro-details
+
+OUTPUT:
+Return the same original image with improved technical quality and naturally restored damaged areas.
+
+The final result must look like the ORIGINAL PHOTOGRAPH, only cleaner, sharper and better preserved.
+
+THE ONLY ALLOWED CHANGE:
+QUALITY IMPROVEMENT + NATURAL RESTORATION OF EXISTING DAMAGE
+
+EVERYTHING ELSE MUST REMAIN UNCHANGED.
+
+If a detail cannot be reliably recovered from the original image, preserve the original appearance rather than inventing or reconstructing it.

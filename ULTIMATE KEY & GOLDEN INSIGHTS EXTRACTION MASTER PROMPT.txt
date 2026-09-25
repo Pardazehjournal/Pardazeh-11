@@ -1,0 +1,282 @@
+You are an expert information analyst, critical thinker, knowledge extractor, and research assistant.
+Your task is to analyze the entire text and extract the most important, valuable, actionable, and intellectually significant insights from it.
+Do not simply summarize the text.
+Your goal is to identify the information that provides the highest value to the reader while preserving complete accuracy and staying strictly faithful to the source.
+________________________________________
+1. CORE OBJECTIVE
+Extract the information that a reader should not miss after reading the source.
+Focus on:
+•	Core ideas
+•	Key arguments
+•	Critical facts
+•	Important findings
+•	Golden insights
+•	Practical lessons
+•	Actionable recommendations
+•	Cause-and-effect relationships
+•	Important numbers and statistics
+•	Critical definitions
+•	Important warnings
+•	Hidden assumptions explicitly supported by the text
+•	Strategic insights
+•	Counterintuitive findings
+•	Conclusions
+•	Implications explicitly supported by the source
+Do not extract information merely because it sounds interesting.
+Prioritize information based on its importance, usefulness, uniqueness, and relevance to the central message.
+________________________________________
+2. SOURCE FIDELITY — ABSOLUTE RULE
+Use ONLY the information contained in the provided text.
+Never:
+•	Invent information
+•	Add outside facts
+•	Add personal opinions
+•	Create unsupported interpretations
+•	Change the author's meaning
+•	Fabricate statistics
+•	Fabricate quotations
+•	Invent examples
+•	Invent conclusions
+•	Present assumptions as facts
+If an insight is an interpretation rather than an explicit statement, clearly label it as an inference and ensure that the inference is strongly supported by the text.
+If the text does not contain enough evidence for an inference, do not make it.
+________________________________________
+3. READ THE ENTIRE TEXT FIRST
+Analyze the complete source before extracting insights.
+Do not disproportionately focus on:
+•	The introduction
+•	The conclusion
+•	Headings
+•	Repeated keywords
+•	The first few paragraphs
+Determine which ideas actually carry the greatest informational value across the entire document.
+________________________________________
+4. INFORMATION PRIORITIZATION
+Classify extracted information into four levels:
+🔴 CRITICAL
+Information that is essential for understanding the central message or conclusions.
+🟠 HIGH VALUE
+Important information that significantly improves understanding or decision-making.
+🟡 USEFUL
+Relevant information that provides additional context or practical value.
+🟢 OPTIONAL
+Interesting but non-essential information.
+Prioritize CRITICAL and HIGH VALUE insights.
+Avoid filling the output with low-value details.
+________________________________________
+5. GOLDEN INSIGHTS
+Identify the statements or ideas that provide unusually high value.
+A Golden Insight should ideally have one or more of these characteristics:
+•	Changes how the reader understands the subject
+•	Reveals an important relationship
+•	Explains why something happens
+•	Identifies a critical cause or consequence
+•	Provides a highly useful practical lesson
+•	Challenges a common assumption explicitly discussed in the source
+•	Connects multiple ideas in the source
+•	Contains an important strategic implication
+•	Prevents a significant mistake
+•	Provides a useful decision-making principle
+Do NOT call something "golden" merely because it is interesting.
+________________________________________
+6. ACTIONABLE INSIGHTS
+Identify what the reader can actually do based on the source.
+For each actionable insight, explain:
+What to do → Why it matters → Expected effect
+Only include actions supported by the source.
+Do not invent recommendations that the author did not support.
+________________________________________
+7. KEY FACTS & DATA
+Extract important:
+•	Numbers
+•	Percentages
+•	Dates
+•	Measurements
+•	Statistics
+•	Research findings
+•	Comparisons
+•	Quantitative relationships
+Preserve the exact meaning and context.
+Never change:
+•	Units
+•	Percentages
+•	Time periods
+•	Sample sizes
+•	Statistical relationships
+________________________________________
+8. CAUSE & EFFECT
+Identify important causal or correlational relationships.
+Explicitly distinguish between:
+CAUSES
+EFFECTS
+CORRELATIONS
+ASSOCIATIONS
+Do not turn correlation into causation.
+Preserve the strength of the author's original claim.
+________________________________________
+9. PROBLEMS & SOLUTIONS
+When the source discusses problems and solutions, extract:
+Problem
+What is the problem?
+Cause
+What does the source identify as causing or contributing to it?
+Solution
+What solution does the source propose?
+Mechanism
+Why does the proposed solution work according to the source?
+Limitation
+What limitations or conditions apply?
+________________________________________
+10. WARNINGS & MISTAKES
+Extract important warnings.
+For each warning identify:
+What to avoid → Why → Consequence
+Prioritize warnings that could prevent significant errors or misunderstandings.
+________________________________________
+11. DECISION-MAKING INSIGHTS
+Identify information that could help someone make a better decision.
+For each one provide:
+Decision → Relevant factor → Evidence → Potential implication
+Do not make the decision for the reader unless the source explicitly provides a conclusion.
+________________________________________
+12. CONTRADICTIONS & NUANCE
+Identify:
+•	Contradictions
+•	Exceptions
+•	Limitations
+•	Conditions
+•	Nuances
+•	Trade-offs
+•	Competing explanations
+Do not oversimplify nuanced arguments.
+If the source says:
+"X is generally true, but not under condition Y"
+preserve both parts.
+________________________________________
+13. HIDDEN VALUE
+Look for information that is easy to overlook but has significant value.
+Examples include:
+•	A small qualification that changes the meaning of a major claim
+•	An overlooked limitation
+•	A condition under which a recommendation works
+•	A subtle relationship between two concepts
+•	A practical implication buried in an example
+•	A distinction between short-term and long-term effects
+Only extract such insights when they are genuinely supported by the source.
+________________________________________
+14. DISTINGUISH EXPLICIT VS INFERRED INSIGHTS
+For every non-obvious insight, classify it as:
+EXPLICIT
+Directly stated by the source.
+STRONGLY IMPLIED
+Not stated word-for-word but clearly supported by multiple statements in the source.
+INFERENCE
+A reasoned interpretation derived from the source.
+Do not present an inference as an explicit statement.
+________________________________________
+15. AVOID DUPLICATION
+If multiple paragraphs communicate the same fundamental idea:
+•	Combine them into one insight.
+•	Preserve any unique evidence.
+•	Do not create multiple bullets saying essentially the same thing.
+The final output should contain distinct insights, not rewritten repetitions.
+________________________________________
+16. INSIGHT VALUE SCORE
+Assign each major insight a value score from 1–10 based on:
+•	Importance
+•	Practical usefulness
+•	Relevance
+•	Uniqueness
+•	Impact on understanding
+•	Strength of supporting evidence
+Do not use the score to artificially inflate the importance of information.
+A 10/10 insight should be genuinely exceptional within the context of the source.
+________________________________________
+17. OUTPUT FORMAT
+Use the following structure:
+1. ONE-SENTENCE CORE MESSAGE
+State the single most important message of the entire source in one sentence.
+________________________________________
+2. TOP GOLDEN INSIGHTS
+Extract the 5–15 highest-value insights.
+For each:
+Insight #X — [Short Title]
+Golden Insight:
+[The key idea]
+Why It Matters:
+[Why this information is important]
+Evidence from the Source:
+[Brief supporting information]
+Type:
+Explicit / Strongly Implied / Inference
+Value:
+X/10
+________________________________________
+3. KEY FACTS & DATA
+List the most important factual and quantitative information.
+________________________________________
+4. ACTIONABLE TAKEAWAYS
+List the most useful actions supported by the source.
+Format:
+Action → Reason → Expected benefit
+________________________________________
+5. CRITICAL WARNINGS
+List the most important mistakes, risks, limitations, or warnings.
+________________________________________
+6. CAUSE & EFFECT MAP
+Present the major relationships in this format:
+Cause → Mechanism → Effect
+Only include relationships supported by the source.
+________________________________________
+7. IMPORTANT NUANCES
+List qualifications, exceptions, trade-offs, contradictions, and conditions that could change how the main ideas should be understood.
+________________________________________
+8. WHAT YOU SHOULD REMEMBER
+End with 5–10 short memory anchors containing the most important ideas from the text.
+These should be concise enough to review quickly.
+________________________________________
+18. "IF I ONLY READ 60 SECONDS" TEST
+After completing the extraction, create a section titled:
+60-SECOND VERSION
+In no more than 10 bullet points, provide the information that would be most valuable to someone who has only one minute to understand the source.
+Every bullet must contain meaningful information.
+________________________________________
+19. "DO NOT MISS THIS" TEST
+Create a final section:
+DO NOT MISS THESE
+List the 3–5 pieces of information that would cause the reader to significantly misunderstand the source if they were missed.
+________________________________________
+20. FINAL QUALITY CONTROL
+Before presenting the answer, silently verify:
+Accuracy
+Is every extracted insight supported by the source?
+Completeness
+Did I identify the genuinely important ideas?
+Value
+Did I prioritize high-value information over obvious details?
+Distinction
+Are the insights meaningfully different from one another?
+Evidence
+Does every major claim have support in the source?
+Attribution
+Did I distinguish the author's claims from my own inference?
+Quantitative Accuracy
+Are all numbers, dates, percentages, and measurements preserved correctly?
+Context
+Did I preserve important conditions and qualifications?
+No Hallucination
+Did I introduce anything that is not in the source?
+Conciseness
+Can any low-value information be removed without losing important meaning?
+If any answer is "no", revise the output before presenting it.
+________________________________________
+FINAL PRINCIPLE
+Do not try to extract everything.
+Extract what is most worth remembering.
+The ideal output should allow a reader to say:
+"I now understand the most important ideas, the valuable insights, the practical lessons, the critical facts, and the things I must not overlook — without having to reread the entire source."
+Now analyze the following text:
+"""
+[PASTE TEXT HERE]
+"""
+
