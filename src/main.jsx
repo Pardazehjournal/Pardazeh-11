@@ -1282,7 +1282,7 @@ function UsefulArticle({ s }) {
             مهم اینه که چیزی برای گفتن داشته باشیم، نه اینکه فقط چیزی منتشر کنیم!
           </p>
           <figure className="useful-fig useful-fig-lg">
-            <img src={A + 'linkedin-post.png'} alt="صفحه Home لینکدین و قسمت Start a post" />
+            <img src={A + 'linkedin-post.jpg'} alt="صفحه Home لینکدین و قسمت Start a post" />
             <figcaption className="useful-cap">صفحه‌ی Home لینکدین و قسمت Start a post</figcaption>
           </figure>
         </div>
@@ -1336,7 +1336,7 @@ function UsefulArticle({ s }) {
           با این قابلیت می‌تونیم مشخص کنیم دنبال چه نوع موقعیت شغلی، چه عنوان‌هایی و در چه موقعیت مکانی هستیم و انتخاب کنیم این موضوع برای همه‌ی کاربران LinkedIn نمایش داده بشه یا فقط برای Recruiterها.
         </p>
         <figure className="useful-fig useful-fig-md">
-          <img src={A + 'linkedin-open-to-work.png'} alt="قسمت Open to در پروفایل لینکدین" />
+          <img src={A + 'linkedin-open-to-work.jpg'} alt="قسمت Open to در پروفایل لینکدین" />
           <figcaption className="useful-cap">قسمت Open to در بالای پروفایل + گزینه‌ی Finding a new job</figcaption>
         </figure>
 
